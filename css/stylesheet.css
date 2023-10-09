@@ -48,6 +48,7 @@
     }
   }
   
+  /*in sass used partial with colors to pull from */
   .hero__container--left h1 {
     font-size: 4rem;
     color: lime;
@@ -59,6 +60,7 @@
     }
   }
   
+   /*in sass used partial with colors to pull from */
   .hero__container--left h2 {
     font-size: 4rem;
     color: black;
